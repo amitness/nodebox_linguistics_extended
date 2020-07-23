@@ -19,6 +19,11 @@ To install, download the repository and install using setup.py:
 python setup.py install
 ```
 
+You can also install it directly from the repo as:
+```
+pip install git+https://github.com/amitness/nodebox_linguistics_extended
+```
+
 ## Usage
 For convenience, import in python as follows:
 ```
